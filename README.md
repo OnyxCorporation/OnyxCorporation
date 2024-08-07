@@ -1,7 +1,7 @@
 # Onyx Corporation
 
 ## About Us
-Welcome to Onyx Corporation's GitHub repository! We specialize in industrial automation solutions, leveraging cutting-edge technology to streamline and enhance manufacturing processes.
+Welcome to Onyx Corporation's GitHub repository! We specialize in industrial automation solutions.
 
 ## Project Overview
 This repository contains the firmware development for various automation projects. Our goal is to create efficient, reliable, and scalable solutions to meet the diverse needs of the industry.
